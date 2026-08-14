@@ -1,0 +1,1251 @@
+id,label
+18,High
+21,High
+31,Low
+32,Low
+42,High
+48,Very High
+51,Very High
+63,Elevated
+66,High
+67,Elevated
+70,Elevated
+74,Low
+76,Elevated
+80,Low
+84,Elevated
+85,Elevated
+86,Low
+98,Very High
+100,Low
+109,High
+110,Low
+113,Elevated
+117,Low
+124,Elevated
+128,Elevated
+132,Low
+134,Elevated
+143,High
+146,Elevated
+149,Very High
+152,Low
+157,Very High
+159,Very High
+160,Elevated
+163,Elevated
+166,Elevated
+168,Very High
+171,Very High
+175,Very High
+176,Very High
+179,Low
+186,Very High
+193,Elevated
+201,High
+211,Low
+212,Elevated
+216,Elevated
+222,Low
+229,High
+231,Low
+237,Low
+238,Elevated
+239,Elevated
+249,Low
+254,High
+255,Low
+260,Low
+266,Very High
+279,Very High
+288,High
+289,Low
+290,Low
+299,High
+302,Very High
+307,Elevated
+308,High
+312,Very High
+313,High
+324,Elevated
+326,Low
+329,High
+339,Low
+340,Very High
+341,High
+342,Very High
+343,Low
+345,Very High
+346,High
+348,Very High
+352,Elevated
+354,Elevated
+355,Very High
+356,Elevated
+357,Very High
+373,Low
+377,High
+380,High
+387,High
+393,Low
+395,High
+398,Low
+401,Elevated
+405,Elevated
+406,Elevated
+408,Very High
+415,Elevated
+428,Low
+433,Elevated
+437,Very High
+440,High
+452,Very High
+454,Low
+458,Very High
+460,Low
+462,Very High
+463,Very High
+468,High
+475,High
+476,High
+477,High
+489,Low
+493,High
+518,High
+520,High
+521,Low
+522,Very High
+527,High
+528,Low
+540,Elevated
+548,Elevated
+555,Very High
+556,Elevated
+562,High
+566,Elevated
+576,Elevated
+580,Very High
+592,Elevated
+593,Low
+603,Very High
+605,Very High
+610,Low
+614,Very High
+616,Elevated
+618,High
+623,Low
+625,Low
+627,Low
+630,High
+638,Low
+643,Elevated
+649,High
+650,Elevated
+652,Very High
+658,Elevated
+659,Elevated
+662,Elevated
+668,Elevated
+686,Low
+688,Elevated
+695,Low
+709,High
+714,Elevated
+715,Low
+717,Low
+718,Low
+729,Very High
+731,High
+736,Low
+738,High
+743,Low
+747,Elevated
+748,Elevated
+750,High
+751,Elevated
+753,Very High
+754,Elevated
+756,Elevated
+758,Very High
+759,Elevated
+767,High
+768,Very High
+770,Elevated
+771,Low
+781,High
+784,Very High
+793,High
+794,Elevated
+795,Elevated
+796,High
+798,Very High
+799,Very High
+801,Low
+802,Low
+803,Low
+807,Elevated
+809,High
+810,Elevated
+812,High
+816,Low
+819,Low
+820,Elevated
+821,High
+822,High
+829,Elevated
+839,High
+841,Elevated
+844,Low
+851,Low
+858,Elevated
+860,Very High
+862,Low
+864,Low
+865,Very High
+866,Low
+868,Low
+883,Low
+894,Low
+897,High
+900,Elevated
+903,Very High
+906,Low
+909,Elevated
+910,Low
+911,Very High
+917,Elevated
+923,Low
+924,Elevated
+926,Elevated
+933,High
+934,High
+938,High
+942,Elevated
+949,Low
+955,Low
+957,High
+958,Low
+959,High
+962,High
+964,High
+966,Very High
+968,Low
+975,Elevated
+976,Elevated
+985,Low
+995,Very High
+996,Elevated
+997,Very High
+998,High
+1001,Low
+1011,Low
+1021,Very High
+1024,Elevated
+1027,Very High
+1028,Elevated
+1033,Elevated
+1041,Elevated
+1049,Elevated
+1054,Very High
+1061,High
+1069,High
+1071,High
+1075,Very High
+1077,Low
+1078,Very High
+1083,High
+1086,High
+1095,Low
+1098,Low
+1099,Elevated
+1102,Elevated
+1104,High
+1107,Low
+1110,High
+1114,Elevated
+1116,High
+1118,Elevated
+1122,High
+1123,High
+1127,Elevated
+1129,Very High
+1135,Very High
+1138,High
+1142,High
+1143,Elevated
+1145,High
+1148,Elevated
+1149,High
+1157,Very High
+1159,Elevated
+1161,High
+1164,Elevated
+1166,Elevated
+1178,Elevated
+1179,Very High
+1182,Low
+1184,High
+1186,High
+1188,Very High
+1191,Very High
+1199,Low
+1201,High
+1213,High
+1215,Low
+1224,Low
+1225,High
+1229,Elevated
+1234,Very High
+1237,Very High
+1240,High
+1242,Low
+1248,Low
+1249,High
+1255,Very High
+1257,Low
+1259,Very High
+1268,Elevated
+1272,High
+1277,Low
+1280,Low
+1285,Very High
+1288,High
+1291,Low
+1294,Elevated
+1295,Low
+1299,Elevated
+1306,Very High
+1308,Elevated
+1312,Elevated
+1316,Low
+1324,Elevated
+1325,High
+1332,Elevated
+1346,High
+1348,Elevated
+1350,Low
+1357,High
+1360,Very High
+1364,Very High
+1367,Very High
+1374,Low
+1381,Low
+1383,Very High
+1384,Low
+1389,Very High
+1391,Low
+1395,Very High
+1402,Elevated
+1405,High
+1412,Very High
+1418,High
+1423,Low
+1430,Very High
+1431,High
+1435,Low
+1437,High
+1444,Low
+1446,High
+1447,High
+1462,Low
+1463,High
+1467,Elevated
+1469,Very High
+1470,High
+1471,Low
+1479,Elevated
+1480,Very High
+1482,High
+1493,Low
+1494,Elevated
+1500,High
+1504,Elevated
+1506,Very High
+1509,Elevated
+1510,Low
+1513,Elevated
+1523,Very High
+1525,Elevated
+1528,High
+1529,High
+1533,Elevated
+1535,Low
+1536,High
+1552,High
+1557,Elevated
+1561,Elevated
+1573,Elevated
+1574,Elevated
+1579,Low
+1582,High
+1585,Elevated
+1587,Low
+1595,Elevated
+1596,Low
+1612,Elevated
+1614,Low
+1616,Very High
+1618,Very High
+1628,Elevated
+1630,Low
+1631,Low
+1633,High
+1642,High
+1643,High
+1645,Low
+1650,Very High
+1654,High
+1657,Very High
+1658,Very High
+1663,Low
+1665,High
+1670,High
+1674,High
+1675,High
+1678,Elevated
+1679,Low
+1682,Low
+1690,Low
+1704,High
+1705,Elevated
+1707,Low
+1710,Very High
+1714,High
+1725,Elevated
+1726,High
+1732,High
+1734,Very High
+1746,Elevated
+1750,Very High
+1755,High
+1757,Elevated
+1765,Elevated
+1768,Elevated
+1769,High
+1771,Low
+1772,Very High
+1776,High
+1784,Elevated
+1791,High
+1792,Very High
+1794,Very High
+1801,Very High
+1802,Elevated
+1807,High
+1818,Low
+1821,High
+1822,High
+1824,High
+1829,Very High
+1836,Elevated
+1838,Very High
+1839,Low
+1840,Elevated
+1843,High
+1872,Elevated
+1874,Very High
+1884,High
+1885,Low
+1889,Elevated
+1890,Elevated
+1899,High
+1900,Low
+1902,Low
+1904,Elevated
+1917,High
+1922,High
+1923,Elevated
+1932,Elevated
+1935,Very High
+1939,High
+1942,Low
+1944,Low
+1946,Low
+1950,High
+1956,Elevated
+1965,Elevated
+1968,Very High
+1975,Elevated
+1976,High
+1979,Very High
+1981,Elevated
+1996,High
+2002,Low
+2004,High
+2007,Elevated
+2008,Elevated
+2010,High
+2012,High
+2014,Low
+2015,Low
+2018,Elevated
+2019,Elevated
+2023,Low
+2030,Very High
+2034,Low
+2035,Elevated
+2039,Elevated
+2046,High
+2050,High
+2051,Very High
+2056,Elevated
+2064,Elevated
+2067,Elevated
+2069,Elevated
+2071,High
+2078,High
+2080,High
+2082,Elevated
+2083,Very High
+2085,Low
+2096,Low
+2098,Low
+2100,Elevated
+2103,Elevated
+2110,Low
+2114,High
+2122,Elevated
+2123,Low
+2129,Elevated
+2132,High
+2133,High
+2143,Elevated
+2144,Elevated
+2146,Low
+2148,Low
+2149,Elevated
+2152,High
+2155,Elevated
+2159,Elevated
+2170,Very High
+2172,Elevated
+2173,Very High
+2179,High
+2185,High
+2186,Very High
+2193,Elevated
+2194,Low
+2201,High
+2202,Elevated
+2204,High
+2214,Very High
+2215,High
+2216,High
+2221,Elevated
+2225,Elevated
+2226,Very High
+2227,Elevated
+2228,High
+2231,High
+2232,Elevated
+2240,Elevated
+2246,Elevated
+2248,High
+2257,Elevated
+2259,Very High
+2262,High
+2267,Very High
+2269,Elevated
+2270,High
+2279,High
+2285,Low
+2288,Elevated
+2297,Elevated
+2298,High
+2300,Elevated
+2303,Elevated
+2310,Elevated
+2318,Low
+2323,Low
+2325,High
+2326,Very High
+2330,Low
+2331,Elevated
+2333,Very High
+2335,Very High
+2336,Very High
+2338,Very High
+2342,High
+2343,Low
+2344,High
+2347,Low
+2348,High
+2360,Elevated
+2362,High
+2368,Very High
+2375,Very High
+2377,Low
+2380,Elevated
+2381,Elevated
+2382,Elevated
+2389,Elevated
+2390,High
+2393,Elevated
+2400,High
+2402,High
+2404,Elevated
+2412,Low
+2413,Low
+2423,High
+2434,High
+2439,High
+2440,High
+2441,Very High
+2442,Elevated
+2447,Low
+2454,Elevated
+2457,Very High
+2464,High
+2471,Low
+2473,Low
+2478,Very High
+2480,High
+2482,High
+2484,Low
+2487,High
+2501,Elevated
+2508,High
+2510,Low
+2513,Very High
+2524,High
+2526,Very High
+2529,Elevated
+2530,Elevated
+2531,Elevated
+2534,Elevated
+2547,Low
+2549,Elevated
+2553,High
+2554,Low
+2559,High
+2560,Elevated
+2561,Elevated
+2563,Low
+2569,Elevated
+2570,Very High
+2589,Very High
+2597,Low
+2599,Elevated
+2605,Very High
+2606,Very High
+2607,High
+2608,Low
+2616,Elevated
+2618,High
+2624,Elevated
+2630,Very High
+2634,Very High
+2637,Elevated
+2638,Very High
+2644,Low
+2648,Low
+2650,Very High
+2653,Elevated
+2660,Low
+2665,Very High
+2667,Very High
+2671,Low
+2674,High
+2677,Elevated
+2686,Low
+2687,Very High
+2690,Elevated
+2697,Low
+2706,Low
+2710,Elevated
+2713,Low
+2715,High
+2718,Very High
+2723,Low
+2724,High
+2732,Low
+2733,High
+2740,Very High
+2743,Low
+2746,Low
+2755,High
+2756,Elevated
+2757,Low
+2759,Low
+2763,Very High
+2775,Low
+2776,Elevated
+2783,Elevated
+2785,High
+2787,High
+2788,High
+2795,Elevated
+2796,Low
+2801,Elevated
+2803,Low
+2808,Low
+2809,Very High
+2813,Elevated
+2815,Very High
+2819,High
+2822,Elevated
+2826,Low
+2827,High
+2832,Low
+2839,Low
+2843,Very High
+2845,High
+2849,Elevated
+2859,High
+2861,Very High
+2868,Low
+2869,High
+2872,Very High
+2875,Very High
+2885,Elevated
+2886,Elevated
+2887,Low
+2893,Low
+2894,High
+2896,Elevated
+2897,Very High
+2898,Low
+2899,Elevated
+2900,Low
+2902,Elevated
+2905,High
+2906,Elevated
+2907,Low
+2908,High
+2915,Low
+2919,High
+2920,Low
+2924,Very High
+2935,Very High
+2936,Elevated
+2951,High
+2958,High
+2959,Very High
+2960,Very High
+2967,Elevated
+2972,High
+2974,High
+2979,Elevated
+2994,Very High
+2995,Elevated
+3001,Very High
+3009,High
+3016,Elevated
+3017,Very High
+3023,High
+3026,Elevated
+3029,High
+3030,Low
+3032,Low
+3045,Low
+3052,High
+3054,Low
+3060,Low
+3062,Low
+3068,Elevated
+3078,Elevated
+3079,Elevated
+3085,Very High
+3086,Low
+3106,Elevated
+3107,High
+3110,Low
+3114,Low
+3119,Low
+3120,Low
+3121,Very High
+3124,Elevated
+3127,Low
+3128,High
+3129,Elevated
+3134,Elevated
+3140,Low
+3144,Low
+3149,Very High
+3151,Low
+3155,Elevated
+3158,Very High
+3159,Low
+3166,Low
+3173,Elevated
+3176,High
+3177,Very High
+3186,High
+3188,Low
+3190,Very High
+3191,Low
+3192,Elevated
+3193,Low
+3196,High
+3200,Very High
+3210,High
+3216,Elevated
+3217,High
+3220,Elevated
+3224,Low
+3227,High
+3230,Low
+3234,Elevated
+3237,Elevated
+3243,Elevated
+3244,High
+3254,Elevated
+3258,High
+3259,High
+3261,Low
+3262,High
+3264,Very High
+3273,High
+3275,High
+3276,Very High
+3279,Elevated
+3285,Low
+3289,High
+3292,Elevated
+3293,Elevated
+3294,Low
+3298,Elevated
+3303,Elevated
+3306,Low
+3310,Low
+3315,Low
+3317,High
+3323,Low
+3330,Elevated
+3332,Very High
+3335,Elevated
+3339,Very High
+3340,High
+3344,High
+3348,Low
+3361,Elevated
+3363,High
+3368,High
+3378,High
+3379,Low
+3385,Low
+3392,Elevated
+3394,High
+3395,Elevated
+3399,High
+3400,Very High
+3403,Very High
+3405,Elevated
+3411,Elevated
+3416,Low
+3418,Very High
+3421,Elevated
+3434,Elevated
+3438,Low
+3443,Low
+3465,High
+3470,Elevated
+3472,High
+3474,High
+3494,Elevated
+3497,Elevated
+3503,Elevated
+3508,Elevated
+3510,Elevated
+3513,Elevated
+3519,High
+3522,Low
+3526,High
+3527,Low
+3528,High
+3532,Elevated
+3535,Very High
+3538,Low
+3541,High
+3542,Very High
+3543,Low
+3545,Elevated
+3547,High
+3548,Elevated
+3554,High
+3555,Low
+3565,High
+3566,Low
+3572,Very High
+3577,High
+3578,Elevated
+3579,High
+3581,Elevated
+3584,Elevated
+3585,Elevated
+3596,Very High
+3601,High
+3622,Very High
+3623,High
+3624,Very High
+3625,Very High
+3626,Very High
+3629,High
+3631,Very High
+3648,High
+3649,Elevated
+3658,Elevated
+3659,Very High
+3660,Low
+3662,Elevated
+3665,Elevated
+3673,Elevated
+3677,High
+3680,Very High
+3683,High
+3685,Elevated
+3687,Low
+3693,Elevated
+3703,Very High
+3704,Low
+3708,Elevated
+3716,High
+3717,Very High
+3718,Low
+3738,Elevated
+3740,Very High
+3743,Elevated
+3746,High
+3747,Low
+3753,Low
+3755,High
+3758,Elevated
+3759,Elevated
+3765,Low
+3767,Low
+3776,Elevated
+3783,High
+3789,Low
+3792,Low
+3793,Elevated
+3795,Elevated
+3798,Low
+3799,High
+3801,Elevated
+3811,Very High
+3815,Low
+3817,Elevated
+3824,Low
+3827,Low
+3828,Very High
+3829,Low
+3838,High
+3840,High
+3847,Low
+3849,Very High
+3856,Very High
+3882,Elevated
+3884,Very High
+3885,Elevated
+3888,High
+3892,Low
+3895,Elevated
+3897,Very High
+3904,Very High
+3905,Very High
+3910,Elevated
+3911,Low
+3916,Low
+3922,Low
+3925,High
+3933,Very High
+3936,Very High
+3937,Very High
+3944,Elevated
+3945,High
+3948,Elevated
+3950,High
+3953,Elevated
+3956,Low
+3959,Elevated
+3966,Elevated
+3973,Elevated
+3991,Elevated
+3992,Elevated
+3993,Very High
+3997,Elevated
+3999,Elevated
+4009,Low
+4011,Elevated
+4014,High
+4015,Low
+4018,High
+4026,High
+4031,Low
+4032,Low
+4034,Low
+4040,High
+4041,Very High
+4042,Elevated
+4043,Elevated
+4046,Elevated
+4052,High
+4053,Low
+4054,Elevated
+4059,High
+4064,Low
+4067,Very High
+4070,Elevated
+4072,Very High
+4078,Elevated
+4079,Low
+4085,High
+4086,Elevated
+4091,Low
+4093,Low
+4094,Elevated
+4096,Low
+4108,Elevated
+4114,Elevated
+4117,Low
+4120,Elevated
+4124,Elevated
+4131,High
+4135,High
+4137,Elevated
+4139,Elevated
+4140,Very High
+4142,High
+4144,Elevated
+4149,Very High
+4150,Elevated
+4152,Very High
+4153,Low
+4155,Elevated
+4156,Low
+4161,High
+4162,Elevated
+4166,Elevated
+4167,High
+4170,High
+4172,Elevated
+4175,Elevated
+4176,Elevated
+4179,High
+4184,Low
+4187,Elevated
+4188,Elevated
+4192,Very High
+4193,Elevated
+4198,High
+4199,Elevated
+4200,High
+4207,Very High
+4208,High
+4212,Low
+4214,Low
+4216,Low
+4217,High
+4219,Low
+4220,Elevated
+4225,Elevated
+4227,Elevated
+4229,Very High
+4233,Elevated
+4236,High
+4240,High
+4241,High
+4243,Elevated
+4246,High
+4254,High
+4259,Elevated
+4260,High
+4263,Very High
+4266,Low
+4269,High
+4273,Elevated
+4280,High
+4289,High
+4295,High
+4298,Very High
+4304,High
+4308,High
+4312,Elevated
+4315,Elevated
+4321,Low
+4324,High
+4332,Low
+4334,Elevated
+4347,Low
+4349,Elevated
+4352,Very High
+4353,High
+4355,Low
+4360,Very High
+4366,Low
+4368,Elevated
+4370,Elevated
+4382,Very High
+4383,Low
+4384,Elevated
+4385,Low
+4389,Elevated
+4391,Elevated
+4392,Low
+4394,Very High
+4403,Very High
+4407,Very High
+4408,Very High
+4411,Very High
+4413,Low
+4424,Low
+4427,High
+4432,Elevated
+4433,Low
+4435,Low
+4440,Very High
+4442,Low
+4443,Very High
+4450,Elevated
+4451,High
+4453,Very High
+4460,Very High
+4468,High
+4470,Low
+4471,Very High
+4472,Elevated
+4473,Low
+4476,Very High
+4477,Elevated
+4480,Low
+4483,High
+4487,Low
+4491,Elevated
+4499,Elevated
+4502,Elevated
+4507,Low
+4509,Elevated
+4513,Low
+4515,Low
+4517,Very High
+4523,High
+4526,High
+4530,Low
+4535,Elevated
+4537,Elevated
+4546,Very High
+4554,High
+4555,Very High
+4556,Elevated
+4560,Elevated
+4563,High
+4564,Very High
+4570,Elevated
+4575,Elevated
+4577,Elevated
+4579,High
+4584,Elevated
+4590,High
+4593,Very High
+4595,Low
+4596,Very High
+4597,High
+4599,Low
+4602,Low
+4603,Low
+4604,High
+4607,Elevated
+4608,Very High
+4609,Elevated
+4613,Low
+4614,High
+4615,Low
+4617,Very High
+4618,Very High
+4619,Elevated
+4624,Low
+4637,Elevated
+4638,Low
+4641,Elevated
+4651,High
+4658,Elevated
+4659,Elevated
+4661,High
+4664,High
+4667,Low
+4675,Elevated
+4686,Elevated
+4688,Low
+4689,High
+4693,Very High
+4694,Low
+4695,Elevated
+4696,Low
+4698,Low
+4701,Very High
+4706,Very High
+4711,High
+4712,Low
+4719,Very High
+4727,High
+4729,High
+4737,Low
+4738,Elevated
+4740,Very High
+4744,Low
+4745,High
+4748,Elevated
+4755,Elevated
+4756,Elevated
+4759,Low
+4762,Elevated
+4763,Elevated
+4766,High
+4768,Very High
+4784,Elevated
+4786,Very High
+4787,Very High
+4789,Low
+4794,High
+4795,High
+4800,Elevated
+4801,Elevated
+4807,High
+4808,Elevated
+4813,High
+4816,Elevated
+4821,Low
+4828,Low
+4834,Elevated
+4835,Elevated
+4838,Low
+4839,Very High
+4843,Low
+4846,Low
+4848,Elevated
+4850,Low
+4851,Low
+4852,Elevated
+4853,Low
+4858,Low
+4860,Very High
+4864,High
+4865,Elevated
+4871,High
+4876,High
+4879,Low
+4883,Elevated
+4885,Elevated
+4886,Very High
+4890,Elevated
+4892,Low
+4894,High
+4898,Very High
+4899,Elevated
+4905,Very High
+4914,Elevated
+4917,Elevated
+4928,High
+4935,Elevated
+4942,Elevated
+4943,Elevated
+4946,High
+4953,Elevated
+4957,Low
+4958,Very High
+4959,Very High
+4966,High
+4971,Low
+4978,High
+4989,Very High
+4992,Very High
